@@ -1,0 +1,40 @@
+
+c
+java:S1192\"FDefine a constant instead of duplicating this literal "India" 3 times.(®â¿š8„Ýö‹Ú1
+J
+java:S1604g"(Make this anonymous inner class a lambda(Ê›Å†øÿÿÿÿ8…Ýö‹Ú1
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞ8¶Ýö‹Ú1
+_
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄÞ8¶Ýö‹Ú1
+_
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄÞ8¶Ýö‹Ú1
+_
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄÞ8¶Ýö‹Ú1
+V
+java:S18544"9Remove this useless assignment to local variable "users".(ˆñ¢Õ8¼Ýö‹Ú1
+T
+java:S18543"7Remove this useless assignment to local variable "all".(ãÛƒÃ8¼Ýö‹Ú1
+H
+java:S14522"&Remove usage of generic wildcard type.(ÊÃ„íúÿÿÿÿ8½Ýö‹Ú1
+E
+java:S14813"(Remove this unused "all" local variable.(ãÛƒÃ8¾Ýö‹Ú1
+G
+java:S14814"*Remove this unused "users" local variable.(ˆñ¢Õ8¾Ýö‹Ú1
+b
+java:S46849"@Replace this persistent entity with a simple POJO or DTO object.(ˆ½à¢ýÿÿÿÿ8¿Ýö‹Ú1
+H
+java:S14529"&Remove usage of generic wildcard type.(ˆ½à¢ýÿÿÿÿ8¿Ýö‹Ú1
+C
+java:S1452H"&Remove usage of generic wildcard type.(‹ÝºÎ8ÇÝö‹Ú1
+b
+java:S4684M"@Replace this persistent entity with a simple POJO or DTO object.(ã€ÑÉùÿÿÿÿ8ÈÝö‹Ú1
+H
+java:S1452M"&Remove usage of generic wildcard type.(ã€ÑÉùÿÿÿÿ8ÉÝö‹Ú1
+C
+java:S1452Z"&Remove usage of generic wildcard type.(Ú¥ƒÝ8ÌÝö‹Ú1
+X	java:S125`"<This block of commented-out lines of code should be removed.(„å×¤8ÑÝö‹Ú1
+C
+java:S1452f"&Remove usage of generic wildcard type.(Þ‹¾8ÒÝö‹Ú1
+I
+java:S1452€"&Remove usage of generic wildcard type.(½®î‹ùÿÿÿÿ8ÚÝö‹Ú1

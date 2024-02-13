@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+      database: mapping
+  datasource:
+    url: jdbc:mongodb://localhost:27017
+    driver-class-name: Mon
+logging:
+  level:
+    org.springframework.data.mongodb.core.MongoTemplate: DEBUG
+
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: testdb
